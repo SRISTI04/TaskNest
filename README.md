@@ -2,17 +2,18 @@
 TaskNest is a simple, yet powerful API built with Python, Flask, and MongoDB, designed to manage tasks efficiently. This project demonstrates various modern development practices, including Test-Driven Development (TDD), Continuous Integration (CI), and Continuous Deployment (CD). Developed based on the course "Do Zero ao Deploy" by Cássio Botaro, this API allows users to create and retrieve tasks with ease.
 
 Key Features:
-Python 3.6: Written using Python 3.6, ensuring compatibility with the latest features.
-Pipenv or Virtualenv: Easily manage project dependencies with Pipenv or Virtualenv.
-Test-Driven Development (TDD): Developed with PyTest for testing endpoints, ensuring code quality.
-Flask Framework: A lightweight framework for building APIs quickly and efficiently.
-Continuous Integration & Deployment: Integrated with Travis CI for seamless automated testing and Heroku for easy deployment.
-MongoDB Persistence: Tasks are stored and managed in a MongoDB database, providing flexibility and scalability.
+-Python 3.6: Written using Python 3.6, ensuring compatibility with the latest features.
+-Pipenv or Virtualenv: Easily manage project dependencies with Pipenv or Virtualenv.
+-Test-Driven Development (TDD): Developed with PyTest for testing endpoints, ensuring code quality.
+-Flask Framework: A lightweight framework for building APIs quickly and efficiently.
+-Continuous Integration & Deployment: Integrated with Travis CI for seamless automated testing and Heroku for easy deployment.
+-MongoDB Persistence: Tasks are stored and managed in a MongoDB database, providing flexibility and scalability.
+
 Installation & Setup
-Prerequisites:
+-Prerequisites:
 Python 3.6: Install Python 3.6 for the correct functioning of the application.
 MongoDB: Install MongoDB and ensure the MongoDB service is running on your machine.
-Setting Up the Environment:
+-Setting Up the Environment:
 Using Pipenv: If you're using Pipenv to manage dependencies:
 bash
 Copy code
